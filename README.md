@@ -3,5 +3,5 @@ This repository demonstrates the Separating Axis Theorem collision detection alg
 
 # Instructions
 1) Download the code.
-2) Go into the "SAT Collision Detection" folder.
+2) Go into the "SAT-Collision-Detection" folder.
 3) Execute the executable file.
